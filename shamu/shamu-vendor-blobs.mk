@@ -34,7 +34,6 @@ PRODUCT_COPY_FILES += \
     vendor/moto/shamu/proprietary/bin/radish:system/bin/radish \
     vendor/moto/shamu/proprietary/bin/sensors.qcom:system/bin/sensors.qcom \
     vendor/moto/shamu/proprietary/bin/tcmd_mini:system/bin/tcmd_mini \
-    vendor/moto/shamu/proprietary/bin/thermal-engine:system/bin/thermal-engine \
     vendor/moto/shamu/proprietary/bin/time_daemon:system/bin/time_daemon \
     vendor/moto/shamu/proprietary/bin/usbhub:system/bin/usbhub \
     vendor/moto/shamu/proprietary/bin/usbhub_init:system/bin/usbhub_init \
@@ -86,7 +85,6 @@ PRODUCT_COPY_FILES += \
     vendor/moto/shamu/proprietary/etc/Hdmi_cal.acdb:system/etc/Hdmi_cal.acdb \
     vendor/moto/shamu/proprietary/etc/Headset_cal.acdb:system/etc/Headset_cal.acdb \
     vendor/moto/shamu/proprietary/etc/Speaker_cal.acdb:system/etc/Speaker_cal.acdb \
-    vendor/moto/shamu/proprietary/etc/thermal-engine-shamu.conf:system/etc/thermal-engine-shamu.conf \
     vendor/moto/shamu/proprietary/lib/libadspd-jni.so:system/lib/libadspd-jni.so \
     vendor/moto/shamu/proprietary/lib/libadspd.so:system/lib/libadspd.so \
     vendor/moto/shamu/proprietary/lib/libdetectmodem.so:system/lib/libdetectmodem.so \
@@ -97,6 +95,7 @@ PRODUCT_COPY_FILES += \
     vendor/moto/shamu/proprietary/lib/libimsmedia_jni.so:system/lib/libimsmedia_jni.so \
     vendor/moto/shamu/proprietary/lib/libmdmdetect.so:system/lib/libmdmdetect.so \
     vendor/moto/shamu/proprietary/lib/libmotaudioutils.so:system/lib/libmotaudioutils.so \
+    vendor/moto/shamu/proprietary/vendor/bin/thermal-engine:system/vendor/bin/thermal-engine \
     vendor/moto/shamu/proprietary/vendor/firmware/keymaster/keymaster.b00:system/vendor/firmware/keymaster/keymaster.b00 \
     vendor/moto/shamu/proprietary/vendor/firmware/keymaster/keymaster.b01:system/vendor/firmware/keymaster/keymaster.b01 \
     vendor/moto/shamu/proprietary/vendor/firmware/keymaster/keymaster.b02:system/vendor/firmware/keymaster/keymaster.b02 \
