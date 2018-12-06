@@ -45,8 +45,6 @@ PRODUCT_PACKAGES += \
     LifetimeData \
     MotoSignatureApp \
     SprintDM \
-    TriggerEnroll \
-    TriggerTrainingService \
     VZWAPNService
 
 # Prebuilt vendor/libs needed for compilation
