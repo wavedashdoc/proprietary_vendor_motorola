@@ -25,8 +25,8 @@ PRODUCT_COPY_FILES += \
     vendor/moto/shamu/proprietary/bin/mdm_helper:system/bin/mdm_helper \
     vendor/moto/shamu/proprietary/bin/mdm_helper_proxy:system/bin/mdm_helper_proxy \
     vendor/moto/shamu/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
-    vendor/moto/shamu/proprietary/bin/mpdecision:system/bin/mpdecision \
-    vendor/moto/shamu/proprietary/bin/netmgrd:system/bin/netmgrd \
+    vendor/moto/shamu/proprietary/vendor/bin/mpdecision:system/vendor/bin/mpdecision \
+    vendor/moto/shamu/proprietary/vendor/bin/netmgrd:system/vendor/bin/netmgrd \
     vendor/moto/shamu/proprietary/bin/port-bridge:system/bin/port-bridge \
     vendor/moto/shamu/proprietary/bin/qmi_motext_hook:system/bin/qmi_motext_hook \
     vendor/moto/shamu/proprietary/bin/qmuxd:system/bin/qmuxd \
@@ -34,7 +34,7 @@ PRODUCT_COPY_FILES += \
     vendor/moto/shamu/proprietary/bin/radish:system/bin/radish \
     vendor/moto/shamu/proprietary/bin/sensors.qcom:system/bin/sensors.qcom \
     vendor/moto/shamu/proprietary/bin/tcmd_mini:system/bin/tcmd_mini \
-    vendor/moto/shamu/proprietary/bin/thermal-engine:system/bin/thermal-engine \
+    vendor/moto/shamu/proprietary/vendor/bin/thermal-engine:system/vendor/bin/thermal-engine \
     vendor/moto/shamu/proprietary/bin/time_daemon:system/bin/time_daemon \
     vendor/moto/shamu/proprietary/bin/usbhub:system/bin/usbhub \
     vendor/moto/shamu/proprietary/bin/usbhub_init:system/bin/usbhub_init \
