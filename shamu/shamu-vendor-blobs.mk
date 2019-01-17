@@ -25,8 +25,8 @@ PRODUCT_COPY_FILES += \
     vendor/moto/shamu/proprietary/bin/mdm_helper:system/bin/mdm_helper \
     vendor/moto/shamu/proprietary/bin/mdm_helper_proxy:system/bin/mdm_helper_proxy \
     vendor/moto/shamu/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
-    vendor/moto/shamu/proprietary/bin/mpdecision:system/bin/mpdecision \
-    vendor/moto/shamu/proprietary/bin/netmgrd:system/bin/netmgrd \
+    vendor/moto/shamu/proprietary/vendor/bin/mpdecision:system/vendor/bin/mpdecision \
+    vendor/moto/shamu/proprietary/vendor/bin/netmgrd:system/vendor/bin/netmgrd \
     vendor/moto/shamu/proprietary/bin/port-bridge:system/bin/port-bridge \
     vendor/moto/shamu/proprietary/bin/qmi_motext_hook:system/bin/qmi_motext_hook \
     vendor/moto/shamu/proprietary/bin/qmuxd:system/bin/qmuxd \
@@ -88,11 +88,7 @@ PRODUCT_COPY_FILES += \
     vendor/moto/shamu/proprietary/lib/libadspd-jni.so:system/lib/libadspd-jni.so \
     vendor/moto/shamu/proprietary/lib/libadspd.so:system/lib/libadspd.so \
     vendor/moto/shamu/proprietary/lib/libdetectmodem.so:system/lib/libdetectmodem.so \
-    vendor/moto/shamu/proprietary/lib/libdmengine.so:system/lib/libdmengine.so \
-    vendor/moto/shamu/proprietary/lib/libdmjavaplugin.so:system/lib/libdmjavaplugin.so \
     vendor/moto/shamu/proprietary/lib/libflacencoder.so:system/lib/libflacencoder.so \
-    vendor/moto/shamu/proprietary/lib/libimscamera_jni.so:system/lib/libimscamera_jni.so \
-    vendor/moto/shamu/proprietary/lib/libimsmedia_jni.so:system/lib/libimsmedia_jni.so \
     vendor/moto/shamu/proprietary/lib/libmdmdetect.so:system/lib/libmdmdetect.so \
     vendor/moto/shamu/proprietary/lib/libmotaudioutils.so:system/lib/libmotaudioutils.so \
     vendor/moto/shamu/proprietary/vendor/bin/thermal-engine:system/vendor/bin/thermal-engine \
