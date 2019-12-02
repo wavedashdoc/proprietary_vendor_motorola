@@ -88,7 +88,11 @@ PRODUCT_COPY_FILES += \
     vendor/moto/shamu/proprietary/lib/libadspd-jni.so:system/lib/libadspd-jni.so \
     vendor/moto/shamu/proprietary/lib/libadspd.so:system/lib/libadspd.so \
     vendor/moto/shamu/proprietary/lib/libdetectmodem.so:system/lib/libdetectmodem.so \
+    vendor/moto/shamu/proprietary/lib/libdmengine.so:system/lib/libdmengine.so \
+    vendor/moto/shamu/proprietary/lib/libdmjavaplugin.so:system/lib/libdmjavaplugin.so \
     vendor/moto/shamu/proprietary/lib/libflacencoder.so:system/lib/libflacencoder.so \
+    vendor/moto/shamu/proprietary/lib/libimscamera_jni.so:system/lib/libimscamera_jni.so \
+    vendor/moto/shamu/proprietary/lib/libimsmedia_jni.so:system/lib/libimsmedia_jni.so \
     vendor/moto/shamu/proprietary/lib/libmdmdetect.so:system/lib/libmdmdetect.so \
     vendor/moto/shamu/proprietary/lib/libmotaudioutils.so:system/lib/libmotaudioutils.so \
     vendor/moto/shamu/proprietary/vendor/bin/thermal-engine:system/vendor/bin/thermal-engine \
