@@ -320,7 +320,7 @@ PRODUCT_COPY_FILES += \
     vendor/moto/shamu/proprietary/vendor/lib/libmotext_inf.so:system/vendor/lib/libmotext_inf.so \
     vendor/moto/shamu/proprietary/vendor/lib/libnetmgr.so:system/vendor/lib/libnetmgr.so \
     vendor/moto/shamu/proprietary/vendor/lib/liboemcamera.so:system/vendor/lib/liboemcamera.so \
-    vendor/moto/shamu/proprietary/vendor/lib/drm/liboemcrypto.so:system/vendor/lib/drm/liboemcrypto.so \
+    vendor/moto/shamu/proprietary/vendor/lib/drm/liboemcrypto.so:system/vendor/lib/liboemcrypto.so \
     vendor/moto/shamu/proprietary/vendor/lib/libois_lc898122.so:system/vendor/lib/libois_lc898122.so \
     vendor/moto/shamu/proprietary/vendor/lib/libqcci_legacy.so:system/vendor/lib/libqcci_legacy.so \
     vendor/moto/shamu/proprietary/vendor/lib/libqc-opt.so:system/vendor/lib/libqc-opt.so \
@@ -358,8 +358,8 @@ PRODUCT_COPY_FILES += \
     vendor/moto/shamu/proprietary/vendor/lib/libthermalioctl.so:system/vendor/lib/libthermalioctl.so \
     vendor/moto/shamu/proprietary/vendor/lib/libTimeService.so:system/vendor/lib/libTimeService.so \
     vendor/moto/shamu/proprietary/vendor/lib/libvcel.so:system/vendor/lib/libvcel.so \
-    vendor/moto/shamu/proprietary/vendor/lib/drm/libwvdrm_L1.so:system/vendor/lib/drm/libwvdrm_L1.so \
-    vendor/moto/shamu/proprietary/vendor/lib/drm/libwvm.so:system/vendor/lib/drm/libwvm.so \
-    vendor/moto/shamu/proprietary/vendor/lib/drm/libWVStreamControlAPI_L1.so:system/vendor/lib/drm/libWVStreamControlAPI_L1.so \
+    vendor/moto/shamu/proprietary/vendor/lib/libwvdrm_L1.so:system/vendor/lib/libwvdrm_L1.so \
+    vendor/moto/shamu/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwvm.so \
+    vendor/moto/shamu/proprietary/vendor/lib/libWVStreamControlAPI_L1.so:system/vendor/lib/libWVStreamControlAPI_L1.so \
     vendor/moto/shamu/proprietary/vendor/lib/libxml.so:system/vendor/lib/libxml.so \
     vendor/moto/shamu/proprietary/vendor/xbin/wlutil:system/vendor/xbin/wlutil
